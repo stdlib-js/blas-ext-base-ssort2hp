@@ -31,6 +31,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import ssort2hp from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ssort2hp@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/blas-ext-base-ssort2hp/tags). For example,
+
+```javascript
 import ssort2hp from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ssort2hp@v0.0.9-esm/index.mjs';
 ```
 
@@ -181,7 +186,7 @@ console.log( y );
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import Float32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@esm/index.mjs';
-import ssort2hp from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ssort2hp@v0.0.9-esm/index.mjs';
+import ssort2hp from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ssort2hp@esm/index.mjs';
 
 var rand;
 var sign;

@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-09-01)
+## Unreleased (2024-09-29)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#1534](https://github.com/stdlib-js/stdlib/issues/1534)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`c1552d8`](https://github.com/stdlib-js/stdlib/commit/c1552d85dee747d03a1d0c152566e79ad08470df) - **refactor:** update `blas/ext/base/ssort2hp` to follow current project conventions [(#2960)](https://github.com/stdlib-js/stdlib/pull/2960) _(by Aayush Khanna, Philipp Burckhardt)_
 -   [`272ae7a`](https://github.com/stdlib-js/stdlib/commit/272ae7ac5c576c68cfab1b6e304c86407faa20cd) - **docs:** remove comment _(by Athan Reines)_
 
 </details>
@@ -24,9 +37,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Aayush Khanna
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 

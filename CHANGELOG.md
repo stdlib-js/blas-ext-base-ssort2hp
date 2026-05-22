@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-04)
+## Unreleased (2026-05-22)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`8441545`](https://github.com/stdlib-js/stdlib/commit/8441545518bc1d000fcd81a6ab91548f56eafaa6) - **docs:** fix offset parameter wording in `blas/ext/base/*sort2*` READMEs [(#12229)](https://github.com/stdlib-js/stdlib/pull/12229) _(by Philipp Burckhardt)_
 -   [`f9d1409`](https://github.com/stdlib-js/stdlib/commit/f9d140985e169d34f4e66bd770dc675ea28588a3) - **docs:** add missing JSDoc comment _(by Athan Reines)_
 -   [`8feb27f`](https://github.com/stdlib-js/stdlib/commit/8feb27f9a92fdcf24daba1e31e7d0398a04aeb10) - **bench:** refactor to use string interpolation in `blas/ext/base/ssort2hp` [(#10915)](https://github.com/stdlib-js/stdlib/pull/10915) _(by Partha Das)_
 
@@ -25,10 +26,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Partha Das
+-   Philipp Burckhardt
 
 </section>
 

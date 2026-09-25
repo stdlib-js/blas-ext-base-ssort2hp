@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-18)
+## Unreleased (2026-09-25)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`66f69b6`](https://github.com/stdlib-js/stdlib/commit/66f69b6a7b81b28dce3b9b155a9d5fa4379184c0) - **bench:** fix data generation in `blas/ext/base` sort benchmarks [(#15512)](https://github.com/stdlib-js/stdlib/pull/15512) _(by JoyBoy)_
 -   [`7ae11bc`](https://github.com/stdlib-js/stdlib/commit/7ae11bca9e05607a14425d165dfed57584b880b8) - **chore:** clean-up [(#13834)](https://github.com/stdlib-js/stdlib/pull/13834) _(by Philipp Burckhardt)_
 -   [`8441545`](https://github.com/stdlib-js/stdlib/commit/8441545518bc1d000fcd81a6ab91548f56eafaa6) - **docs:** fix offset parameter wording in `blas/ext/base/*sort2*` READMEs [(#12229)](https://github.com/stdlib-js/stdlib/pull/12229) _(by Philipp Burckhardt)_
 -   [`f9d1409`](https://github.com/stdlib-js/stdlib/commit/f9d140985e169d34f4e66bd770dc675ea28588a3) - **docs:** add missing JSDoc comment _(by Athan Reines)_
@@ -27,9 +28,10 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   JoyBoy
 -   Partha Das
 -   Philipp Burckhardt
 
